@@ -24,9 +24,10 @@ Driven by a desire to create meaningful technology solutions, I'm committed to c
 <img align="left" alt="React" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
                              
-<img align="left" alt="Express.js" width="30px" style="padding-right:10px;"
+<img align="left" alt="Express.js" width="30px" style="padding-right:10px; background-color:white;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-          
+         
+           
           
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -49,7 +50,10 @@ Driven by a desire to create meaningful technology solutions, I'm committed to c
 
 ![SarimDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarimDx&show_icons=true&theme=github_dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![](https://github-readme-stats.vercel.app/api?username=SarimDx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SarimDx&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarimDx&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 #
 <!--
