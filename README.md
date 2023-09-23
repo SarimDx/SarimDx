@@ -50,7 +50,7 @@ Driven by a desire to create meaningful technology solutions, I'm committed to c
 
 ![](https://github-readme-stats.vercel.app/api?username=SarimDx&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SarimDx&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarimDx&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 #
